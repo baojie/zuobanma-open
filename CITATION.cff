@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "如果使用了本数据，请按以下信息引用。"
+title: "左班马互鉴：左传·史记·汉书 PN 对读语料"
+type: dataset
+authors:
+  - alias: baojie
+version: 0.1.0
+date-released: 2026-11-20
+license: CC-BY-SA-4.0
+url: "https://zuobanma.memify.wiki/"
+repository: "https://github.com/baojie/zuobanma-open"
+keywords:
+  - 左传
+  - 史记
+  - 汉书
+  - classical Chinese
+  - corpus
+  - collation

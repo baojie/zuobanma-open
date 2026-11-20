@@ -1,0 +1,32 @@
+name: 勘误
+description: 原文错字、PN 错挂、词条或问答有误
+title: "[勘误] "
+labels: ["勘误"]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 类别
+      options:
+        - 原文错字/脱衍
+        - PN 错挂或缺失
+        - 词条内容有误
+        - 问答内容有误
+        - 校勘判定有疑问
+        - 其他
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: 位置
+      description: PN（如 SJ-007-016）或文件路径（如 qa/Q1.md）
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: 问题与依据
+      description: 现在是什么、应该是什么、依据是什么（版本、卷页）
+    validations:
+      required: true

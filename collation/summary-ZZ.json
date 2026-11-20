@@ -1,0 +1,2594 @@
+{
+ "vid": "ZZ",
+ "name": "左传",
+ "witness": "中华书局《春秋左传诂》（洪亮吉撰，李解民点校）",
+ "chapters": [
+  {
+   "ch": "001",
+   "title": "隐公元年",
+   "witness": "左传诂 隐公1年",
+   "base_chars": 990,
+   "wit_chars": 928,
+   "ratio": 0.9333
+  },
+  {
+   "ch": "002",
+   "title": "隐公二年",
+   "witness": "左传诂 隐公2年",
+   "base_chars": 170,
+   "wit_chars": 166,
+   "ratio": 0.9765
+  },
+  {
+   "ch": "003",
+   "title": "隐公三年",
+   "witness": "左传诂 隐公3年",
+   "base_chars": 738,
+   "wit_chars": 734,
+   "ratio": 0.9837
+  },
+  {
+   "ch": "004",
+   "title": "隐公四年",
+   "witness": "左传诂 隐公4年",
+   "base_chars": 529,
+   "wit_chars": 525,
+   "ratio": 0.9868
+  },
+  {
+   "ch": "005",
+   "title": "隐公五年",
+   "witness": "左传诂 隐公5年",
+   "base_chars": 627,
+   "wit_chars": 623,
+   "ratio": 0.9872
+  },
+  {
+   "ch": "006",
+   "title": "隐公六年",
+   "witness": "左传诂 隐公6年",
+   "base_chars": 290,
+   "wit_chars": 286,
+   "ratio": 0.9828
+  },
+  {
+   "ch": "007",
+   "title": "隐公七年",
+   "witness": "左传诂 隐公7年",
+   "base_chars": 234,
+   "wit_chars": 230,
+   "ratio": 0.9786
+  },
+  {
+   "ch": "008",
+   "title": "隐公八年",
+   "witness": "左传诂 隐公8年",
+   "base_chars": 367,
+   "wit_chars": 363,
+   "ratio": 0.9891
+  },
+  {
+   "ch": "009",
+   "title": "隐公九年",
+   "witness": "左传诂 隐公9年",
+   "base_chars": 269,
+   "wit_chars": 265,
+   "ratio": 0.9777
+  },
+  {
+   "ch": "010",
+   "title": "隐公十年",
+   "witness": "左传诂 隐公10年",
+   "base_chars": 275,
+   "wit_chars": 271,
+   "ratio": 0.9855
+  },
+  {
+   "ch": "011",
+   "title": "隐公十一年",
+   "witness": "左传诂 隐公11年",
+   "base_chars": 1027,
+   "wit_chars": 1018,
+   "ratio": 0.9854
+  },
+  {
+   "ch": "012",
+   "title": "桓公元年",
+   "witness": "左传诂 桓公1年",
+   "base_chars": 140,
+   "wit_chars": 136,
+   "ratio": 0.9714
+  },
+  {
+   "ch": "013",
+   "title": "桓公二年",
+   "witness": "左传诂 桓公2年",
+   "base_chars": 864,
+   "wit_chars": 860,
+   "ratio": 0.9873
+  },
+  {
+   "ch": "014",
+   "title": "桓公三年",
+   "witness": "左传诂 桓公3年",
+   "base_chars": 264,
+   "wit_chars": 258,
+   "ratio": 0.9773
+  },
+  {
+   "ch": "015",
+   "title": "桓公四年",
+   "witness": "左传诂 桓公4年",
+   "base_chars": 66,
+   "wit_chars": 62,
+   "ratio": 0.9394
+  },
+  {
+   "ch": "016",
+   "title": "桓公五年",
+   "witness": "左传诂 桓公5年",
+   "base_chars": 388,
+   "wit_chars": 382,
+   "ratio": 0.982
+  },
+  {
+   "ch": "017",
+   "title": "桓公六年",
+   "witness": "左传诂 桓公6年",
+   "base_chars": 886,
+   "wit_chars": 884,
+   "ratio": 0.9853
+  },
+  {
+   "ch": "018",
+   "title": "桓公七年",
+   "witness": "左传诂 桓公7年",
+   "base_chars": 75,
+   "wit_chars": 71,
+   "ratio": 0.9467
+  },
+  {
+   "ch": "019",
+   "title": "桓公八年",
+   "witness": "左传诂 桓公8年",
+   "base_chars": 247,
+   "wit_chars": 243,
+   "ratio": 0.9595
+  },
+  {
+   "ch": "020",
+   "title": "桓公九年",
+   "witness": "左传诂 桓公9年",
+   "base_chars": 213,
+   "wit_chars": 211,
+   "ratio": 0.9531
+  },
+  {
+   "ch": "021",
+   "title": "桓公十年",
+   "witness": "左传诂 桓公10年",
+   "base_chars": 223,
+   "wit_chars": 220,
+   "ratio": 0.9731
+  },
+  {
+   "ch": "022",
+   "title": "桓公十一年",
+   "witness": "左传诂 桓公11年",
+   "base_chars": 382,
+   "wit_chars": 379,
+   "ratio": 0.9869
+  },
+  {
+   "ch": "023",
+   "title": "桓公十二年",
+   "witness": "左传诂 桓公12年",
+   "base_chars": 279,
+   "wit_chars": 276,
+   "ratio": 0.9857
+  },
+  {
+   "ch": "024",
+   "title": "桓公十三年",
+   "witness": "左传诂 桓公13年",
+   "base_chars": 300,
+   "wit_chars": 299,
+   "ratio": 0.98
+  },
+  {
+   "ch": "025",
+   "title": "桓公十四年",
+   "witness": "左传诂 桓公14年",
+   "base_chars": 138,
+   "wit_chars": 135,
+   "ratio": 0.9783
+  },
+  {
+   "ch": "026",
+   "title": "桓公十五年",
+   "witness": "左传诂 桓公15年",
+   "base_chars": 267,
+   "wit_chars": 264,
+   "ratio": 0.9775
+  },
+  {
+   "ch": "027",
+   "title": "桓公十六年",
+   "witness": "左传诂 桓公16年",
+   "base_chars": 234,
+   "wit_chars": 231,
+   "ratio": 0.9872
+  },
+  {
+   "ch": "028",
+   "title": "桓公十七年",
+   "witness": "左传诂 桓公17年",
+   "base_chars": 291,
+   "wit_chars": 288,
+   "ratio": 0.9897
+  },
+  {
+   "ch": "029",
+   "title": "桓公十八年",
+   "witness": "左传诂 桓公18年",
+   "base_chars": 299,
+   "wit_chars": 296,
+   "ratio": 0.99
+  },
+  {
+   "ch": "030",
+   "title": "庄公元年",
+   "witness": "左传诂 庄公1年",
+   "base_chars": 98,
+   "wit_chars": 94,
+   "ratio": 0.9592
+  },
+  {
+   "ch": "031",
+   "title": "庄公二年",
+   "witness": "左传诂 庄公2年",
+   "base_chars": 63,
+   "wit_chars": 59,
+   "ratio": 0.9365
+  },
+  {
+   "ch": "032",
+   "title": "庄公三年",
+   "witness": "左传诂 庄公3年",
+   "base_chars": 103,
+   "wit_chars": 99,
+   "ratio": 0.9612
+  },
+  {
+   "ch": "033",
+   "title": "庄公四年",
+   "witness": "左传诂 庄公4年",
+   "base_chars": 211,
+   "wit_chars": 207,
+   "ratio": 0.9763
+  },
+  {
+   "ch": "034",
+   "title": "庄公五年",
+   "witness": "左传诂 庄公5年",
+   "base_chars": 53,
+   "wit_chars": 49,
+   "ratio": 0.9245
+  },
+  {
+   "ch": "035",
+   "title": "庄公六年",
+   "witness": "左传诂 庄公6年",
+   "base_chars": 237,
+   "wit_chars": 233,
+   "ratio": 0.9747
+  },
+  {
+   "ch": "036",
+   "title": "庄公七年",
+   "witness": "左传诂 庄公7年",
+   "base_chars": 82,
+   "wit_chars": 78,
+   "ratio": 0.9512
+  },
+  {
+   "ch": "037",
+   "title": "庄公八年",
+   "witness": "左传诂 庄公8年",
+   "base_chars": 396,
+   "wit_chars": 392,
+   "ratio": 0.9798
+  },
+  {
+   "ch": "038",
+   "title": "庄公九年",
+   "witness": "左传诂 庄公9年",
+   "base_chars": 203,
+   "wit_chars": 201,
+   "ratio": 0.9754
+  },
+  {
+   "ch": "039",
+   "title": "庄公十年",
+   "witness": "左传诂 庄公10年",
+   "base_chars": 456,
+   "wit_chars": 452,
+   "ratio": 0.989
+  },
+  {
+   "ch": "040",
+   "title": "庄公十一年",
+   "witness": "左传诂 庄公11年",
+   "base_chars": 258,
+   "wit_chars": 254,
+   "ratio": 0.9729
+  },
+  {
+   "ch": "041",
+   "title": "庄公十二年",
+   "witness": "左传诂 庄公12年",
+   "base_chars": 239,
+   "wit_chars": 237,
+   "ratio": 0.9833
+  },
+  {
+   "ch": "042",
+   "title": "庄公十三年",
+   "witness": "左传诂 庄公13年",
+   "base_chars": 77,
+   "wit_chars": 74,
+   "ratio": 0.961
+  },
+  {
+   "ch": "043",
+   "title": "庄公十四年",
+   "witness": "左传诂 庄公14年",
+   "base_chars": 458,
+   "wit_chars": 455,
+   "ratio": 0.9825
+  },
+  {
+   "ch": "044",
+   "title": "庄公十五年",
+   "witness": "左传诂 庄公15年",
+   "base_chars": 66,
+   "wit_chars": 63,
+   "ratio": 0.9545
+  },
+  {
+   "ch": "045",
+   "title": "庄公十六年",
+   "witness": "左传诂 庄公16年",
+   "base_chars": 228,
+   "wit_chars": 225,
+   "ratio": 0.9868
+  },
+  {
+   "ch": "046",
+   "title": "庄公十七年",
+   "witness": "左传诂 庄公17年",
+   "base_chars": 62,
+   "wit_chars": 59,
+   "ratio": 0.9516
+  },
+  {
+   "ch": "047",
+   "title": "庄公十八年",
+   "witness": "左传诂 庄公18年",
+   "base_chars": 190,
+   "wit_chars": 187,
+   "ratio": 0.9316
+  },
+  {
+   "ch": "048",
+   "title": "庄公十九年",
+   "witness": "左传诂 庄公19年",
+   "base_chars": 282,
+   "wit_chars": 279,
+   "ratio": 0.9681
+  },
+  {
+   "ch": "049",
+   "title": "庄公二十年",
+   "witness": "左传诂 庄公20年",
+   "base_chars": 156,
+   "wit_chars": 150,
+   "ratio": 0.9423
+  },
+  {
+   "ch": "050",
+   "title": "庄公二十一年",
+   "witness": "左传诂 庄公21年",
+   "base_chars": 164,
+   "wit_chars": 160,
+   "ratio": 0.9695
+  },
+  {
+   "ch": "051",
+   "title": "庄公二十二年",
+   "witness": "左传诂 庄公22年",
+   "base_chars": 469,
+   "wit_chars": 463,
+   "ratio": 0.9701
+  },
+  {
+   "ch": "052",
+   "title": "庄公二十三年",
+   "witness": "左传诂 庄公23年",
+   "base_chars": 204,
+   "wit_chars": 200,
+   "ratio": 0.9706
+  },
+  {
+   "ch": "053",
+   "title": "庄公二十四年",
+   "witness": "左传诂 庄公24年",
+   "base_chars": 212,
+   "wit_chars": 208,
+   "ratio": 0.9764
+  },
+  {
+   "ch": "054",
+   "title": "庄公二十五年",
+   "witness": "左传诂 庄公25年",
+   "base_chars": 175,
+   "wit_chars": 171,
+   "ratio": 0.9771
+  },
+  {
+   "ch": "055",
+   "title": "庄公二十六年",
+   "witness": "左传诂 庄公26年",
+   "base_chars": 73,
+   "wit_chars": 69,
+   "ratio": 0.9452
+  },
+  {
+   "ch": "056",
+   "title": "庄公二十七年",
+   "witness": "左传诂 庄公27年",
+   "base_chars": 244,
+   "wit_chars": 240,
+   "ratio": 0.9713
+  },
+  {
+   "ch": "057",
+   "title": "庄公二十八年",
+   "witness": "左传诂 庄公28年",
+   "base_chars": 506,
+   "wit_chars": 503,
+   "ratio": 0.9862
+  },
+  {
+   "ch": "058",
+   "title": "庄公二十九年",
+   "witness": "左传诂 庄公29年",
+   "base_chars": 124,
+   "wit_chars": 120,
+   "ratio": 0.9516
+  },
+  {
+   "ch": "059",
+   "title": "庄公三十年",
+   "witness": "左传诂 庄公30年",
+   "base_chars": 143,
+   "wit_chars": 137,
+   "ratio": 0.951
+  },
+  {
+   "ch": "060",
+   "title": "庄公三十一年",
+   "witness": "左传诂 庄公31年",
+   "base_chars": 79,
+   "wit_chars": 75,
+   "ratio": 0.9494
+  },
+  {
+   "ch": "061",
+   "title": "庄公三十二年",
+   "witness": "左传诂 庄公32年",
+   "base_chars": 451,
+   "wit_chars": 447,
+   "ratio": 0.9889
+  },
+  {
+   "ch": "062",
+   "title": "闵公元年",
+   "witness": "左传诂 闵公1年",
+   "base_chars": 524,
+   "wit_chars": 520,
+   "ratio": 0.9885
+  },
+  {
+   "ch": "063",
+   "title": "闵公二年",
+   "witness": "左传诂 闵公2年",
+   "base_chars": 1285,
+   "wit_chars": 1281,
+   "ratio": 0.9946
+  },
+  {
+   "ch": "064",
+   "title": "僖公元年",
+   "witness": "左传诂 僖公1年",
+   "base_chars": 280,
+   "wit_chars": 277,
+   "ratio": 0.9643
+  },
+  {
+   "ch": "065",
+   "title": "僖公二年",
+   "witness": "左传诂 僖公2年",
+   "base_chars": 313,
+   "wit_chars": 309,
+   "ratio": 0.9808
+  },
+  {
+   "ch": "066",
+   "title": "僖公三年",
+   "witness": "左传诂 僖公3年",
+   "base_chars": 149,
+   "wit_chars": 145,
+   "ratio": 0.9597
+  },
+  {
+   "ch": "067",
+   "title": "僖公四年",
+   "witness": "左传诂 僖公4年",
+   "base_chars": 791,
+   "wit_chars": 787,
+   "ratio": 0.9924
+  },
+  {
+   "ch": "068",
+   "title": "僖公五年",
+   "witness": "左传诂 僖公5年",
+   "base_chars": 943,
+   "wit_chars": 939,
+   "ratio": 0.9873
+  },
+  {
+   "ch": "069",
+   "title": "僖公六年",
+   "witness": "左传诂 僖公6年",
+   "base_chars": 194,
+   "wit_chars": 190,
+   "ratio": 0.9794
+  },
+  {
+   "ch": "070",
+   "title": "僖公七年",
+   "witness": "左传诂 僖公7年",
+   "base_chars": 590,
+   "wit_chars": 586,
+   "ratio": 0.9847
+  },
+  {
+   "ch": "071",
+   "title": "僖公八年",
+   "witness": "左传诂 僖公8年",
+   "base_chars": 240,
+   "wit_chars": 236,
+   "ratio": 0.9833
+  },
+  {
+   "ch": "072",
+   "title": "僖公九年",
+   "witness": "左传诂 僖公9年",
+   "base_chars": 778,
+   "wit_chars": 775,
+   "ratio": 0.991
+  },
+  {
+   "ch": "073",
+   "title": "僖公十年",
+   "witness": "左传诂 僖公10年",
+   "base_chars": 439,
+   "wit_chars": 435,
+   "ratio": 0.9749
+  },
+  {
+   "ch": "074",
+   "title": "僖公十一年",
+   "witness": "左传诂 僖公11年",
+   "base_chars": 173,
+   "wit_chars": 170,
+   "ratio": 0.9595
+  },
+  {
+   "ch": "075",
+   "title": "僖公十二年",
+   "witness": "左传诂 僖公12年",
+   "base_chars": 215,
+   "wit_chars": 212,
+   "ratio": 0.9814
+  },
+  {
+   "ch": "076",
+   "title": "僖公十三年",
+   "witness": "左传诂 僖公13年",
+   "base_chars": 230,
+   "wit_chars": 226,
+   "ratio": 0.9783
+  },
+  {
+   "ch": "077",
+   "title": "僖公十四年",
+   "witness": "左传诂 僖公14年",
+   "base_chars": 223,
+   "wit_chars": 220,
+   "ratio": 0.9776
+  },
+  {
+   "ch": "078",
+   "title": "僖公十五年",
+   "witness": "左传诂 僖公15年",
+   "base_chars": 1646,
+   "wit_chars": 1601,
+   "ratio": 0.969
+  },
+  {
+   "ch": "079",
+   "title": "僖公十六年",
+   "witness": "左传诂 僖公16年",
+   "base_chars": 255,
+   "wit_chars": 251,
+   "ratio": 0.9765
+  },
+  {
+   "ch": "080",
+   "title": "僖公十七年",
+   "witness": "左传诂 僖公17年",
+   "base_chars": 351,
+   "wit_chars": 348,
+   "ratio": 0.9915
+  },
+  {
+   "ch": "081",
+   "title": "僖公十八年",
+   "witness": "左传诂 僖公18年",
+   "base_chars": 203,
+   "wit_chars": 200,
+   "ratio": 0.9803
+  },
+  {
+   "ch": "082",
+   "title": "僖公十九年",
+   "witness": "左传诂 僖公19年",
+   "base_chars": 408,
+   "wit_chars": 405,
+   "ratio": 0.9853
+  },
+  {
+   "ch": "083",
+   "title": "僖公二十年",
+   "witness": "左传诂 僖公20年",
+   "base_chars": 177,
+   "wit_chars": 171,
+   "ratio": 0.9661
+  },
+  {
+   "ch": "084",
+   "title": "僖公二十一年",
+   "witness": "左传诂 僖公21年",
+   "base_chars": 304,
+   "wit_chars": 300,
+   "ratio": 0.9868
+  },
+  {
+   "ch": "085",
+   "title": "僖公二十二年",
+   "witness": "左传诂 僖公22年",
+   "base_chars": 759,
+   "wit_chars": 755,
+   "ratio": 0.9908
+  },
+  {
+   "ch": "086",
+   "title": "僖公二十三年",
+   "witness": "左传诂 僖公23年",
+   "base_chars": 1112,
+   "wit_chars": 1107,
+   "ratio": 0.9937
+  },
+  {
+   "ch": "087",
+   "title": "僖公二十四年",
+   "witness": "左传诂 僖公24年",
+   "base_chars": 1682,
+   "wit_chars": 1677,
+   "ratio": 0.9863
+  },
+  {
+   "ch": "088",
+   "title": "僖公二十五年",
+   "witness": "左传诂 僖公25年",
+   "base_chars": 620,
+   "wit_chars": 617,
+   "ratio": 0.9823
+  },
+  {
+   "ch": "089",
+   "title": "僖公二十六年",
+   "witness": "左传诂 僖公26年",
+   "base_chars": 493,
+   "wit_chars": 489,
+   "ratio": 0.9858
+  },
+  {
+   "ch": "090",
+   "title": "僖公二十七年",
+   "witness": "左传诂 僖公27年",
+   "base_chars": 550,
+   "wit_chars": 545,
+   "ratio": 0.9891
+  },
+  {
+   "ch": "091",
+   "title": "僖公二十八年",
+   "witness": "左传诂 僖公28年",
+   "base_chars": 2448,
+   "wit_chars": 2443,
+   "ratio": 0.9902
+  },
+  {
+   "ch": "092",
+   "title": "僖公二十九年",
+   "witness": "左传诂 僖公29年",
+   "base_chars": 175,
+   "wit_chars": 172,
+   "ratio": 0.9657
+  },
+  {
+   "ch": "093",
+   "title": "僖公三十年",
+   "witness": "左传诂 僖公30年",
+   "base_chars": 590,
+   "wit_chars": 583,
+   "ratio": 0.9763
+  },
+  {
+   "ch": "094",
+   "title": "僖公三十一年",
+   "witness": "左传诂 僖公31年",
+   "base_chars": 288,
+   "wit_chars": 284,
+   "ratio": 0.9722
+  },
+  {
+   "ch": "095",
+   "title": "僖公三十二年",
+   "witness": "左传诂 僖公32年",
+   "base_chars": 314,
+   "wit_chars": 310,
+   "ratio": 0.9809
+  },
+  {
+   "ch": "096",
+   "title": "僖公三十三年",
+   "witness": "左传诂 僖公33年",
+   "base_chars": 1261,
+   "wit_chars": 1257,
+   "ratio": 0.9921
+  },
+  {
+   "ch": "097",
+   "title": "文公元年",
+   "witness": "左传诂 文公1年",
+   "base_chars": 696,
+   "wit_chars": 692,
+   "ratio": 0.9842
+  },
+  {
+   "ch": "098",
+   "title": "文公二年",
+   "witness": "左传诂 文公2年",
+   "base_chars": 825,
+   "wit_chars": 821,
+   "ratio": 0.9903
+  },
+  {
+   "ch": "099",
+   "title": "文公三年",
+   "witness": "左传诂 文公3年",
+   "base_chars": 383,
+   "wit_chars": 383,
+   "ratio": 1.0
+  },
+  {
+   "ch": "100",
+   "title": "文公四年",
+   "witness": "左传诂 文公4年",
+   "base_chars": 340,
+   "wit_chars": 340,
+   "ratio": 0.9941
+  },
+  {
+   "ch": "101",
+   "title": "文公五年",
+   "witness": "左传诂 文公5年",
+   "base_chars": 239,
+   "wit_chars": 240,
+   "ratio": 0.9875
+  },
+  {
+   "ch": "102",
+   "title": "文公六年",
+   "witness": "左传诂 文公6年",
+   "base_chars": 909,
+   "wit_chars": 909,
+   "ratio": 0.9923
+  },
+  {
+   "ch": "103",
+   "title": "文公七年",
+   "witness": "左传诂 文公7年",
+   "base_chars": 1107,
+   "wit_chars": 1109,
+   "ratio": 0.9883
+  },
+  {
+   "ch": "104",
+   "title": "文公八年",
+   "witness": "左传诂 文公8年",
+   "base_chars": 317,
+   "wit_chars": 317,
+   "ratio": 0.9842
+  },
+  {
+   "ch": "105",
+   "title": "文公九年",
+   "witness": "左传诂 文公9年",
+   "base_chars": 343,
+   "wit_chars": 347,
+   "ratio": 0.9827
+  },
+  {
+   "ch": "106",
+   "title": "文公十年",
+   "witness": "左传诂 文公10年",
+   "base_chars": 372,
+   "wit_chars": 372,
+   "ratio": 0.9946
+  },
+  {
+   "ch": "107",
+   "title": "文公十一年",
+   "witness": "左传诂 文公11年",
+   "base_chars": 333,
+   "wit_chars": 336,
+   "ratio": 0.9732
+  },
+  {
+   "ch": "108",
+   "title": "文公十二年",
+   "witness": "左传诂 文公12年",
+   "base_chars": 645,
+   "wit_chars": 649,
+   "ratio": 0.9892
+  },
+  {
+   "ch": "109",
+   "title": "文公十三年",
+   "witness": "左传诂 文公13年",
+   "base_chars": 508,
+   "wit_chars": 512,
+   "ratio": 0.9883
+  },
+  {
+   "ch": "110",
+   "title": "文公十四年",
+   "witness": "左传诂 文公14年",
+   "base_chars": 720,
+   "wit_chars": 724,
+   "ratio": 0.9848
+  },
+  {
+   "ch": "111",
+   "title": "文公十五年",
+   "witness": "左传诂 文公15年",
+   "base_chars": 787,
+   "wit_chars": 793,
+   "ratio": 0.9899
+  },
+  {
+   "ch": "112",
+   "title": "文公十六年",
+   "witness": "左传诂 文公16年",
+   "base_chars": 771,
+   "wit_chars": 774,
+   "ratio": 0.9832
+  },
+  {
+   "ch": "113",
+   "title": "文公十七年",
+   "witness": "左传诂 文公17年",
+   "base_chars": 588,
+   "wit_chars": 592,
+   "ratio": 0.9831
+  },
+  {
+   "ch": "114",
+   "title": "文公十八年",
+   "witness": "左传诂 文公18年",
+   "base_chars": 1260,
+   "wit_chars": 1265,
+   "ratio": 0.9881
+  },
+  {
+   "ch": "115",
+   "title": "宣公元年",
+   "witness": "左传诂 宣公1年",
+   "base_chars": 391,
+   "wit_chars": 387,
+   "ratio": 0.9898
+  },
+  {
+   "ch": "116",
+   "title": "宣公二年",
+   "witness": "左传诂 宣公2年",
+   "base_chars": 1095,
+   "wit_chars": 1090,
+   "ratio": 0.9845
+  },
+  {
+   "ch": "117",
+   "title": "宣公三年",
+   "witness": "左传诂 宣公3年",
+   "base_chars": 622,
+   "wit_chars": 618,
+   "ratio": 0.9839
+  },
+  {
+   "ch": "118",
+   "title": "宣公四年",
+   "witness": "左传诂 宣公4年",
+   "base_chars": 750,
+   "wit_chars": 746,
+   "ratio": 0.9707
+  },
+  {
+   "ch": "119",
+   "title": "宣公五年",
+   "witness": "左传诂 宣公5年",
+   "base_chars": 107,
+   "wit_chars": 103,
+   "ratio": 0.9533
+  },
+  {
+   "ch": "120",
+   "title": "宣公六年",
+   "witness": "左传诂 宣公6年",
+   "base_chars": 144,
+   "wit_chars": 140,
+   "ratio": 0.9722
+  },
+  {
+   "ch": "121",
+   "title": "宣公七年",
+   "witness": "左传诂 宣公7年",
+   "base_chars": 163,
+   "wit_chars": 158,
+   "ratio": 0.9693
+  },
+  {
+   "ch": "122",
+   "title": "宣公八年",
+   "witness": "左传诂 宣公8年",
+   "base_chars": 221,
+   "wit_chars": 219,
+   "ratio": 0.991
+  },
+  {
+   "ch": "123",
+   "title": "宣公九年",
+   "witness": "左传诂 宣公9年",
+   "base_chars": 290,
+   "wit_chars": 290,
+   "ratio": 0.9828
+  },
+  {
+   "ch": "124",
+   "title": "宣公十年",
+   "witness": "左传诂 宣公10年",
+   "base_chars": 381,
+   "wit_chars": 381,
+   "ratio": 0.9895
+  },
+  {
+   "ch": "125",
+   "title": "宣公十一年",
+   "witness": "左传诂 宣公11年",
+   "base_chars": 528,
+   "wit_chars": 527,
+   "ratio": 0.9867
+  },
+  {
+   "ch": "126",
+   "title": "宣公十二年",
+   "witness": "左传诂 宣公12年",
+   "base_chars": 3296,
+   "wit_chars": 3300,
+   "ratio": 0.9876
+  },
+  {
+   "ch": "127",
+   "title": "宣公十三年",
+   "witness": "左传诂 宣公13年",
+   "base_chars": 175,
+   "wit_chars": 172,
+   "ratio": 0.9771
+  },
+  {
+   "ch": "128",
+   "title": "宣公十四年",
+   "witness": "左传诂 宣公14年",
+   "base_chars": 425,
+   "wit_chars": 422,
+   "ratio": 0.9929
+  },
+  {
+   "ch": "129",
+   "title": "宣公十五年",
+   "witness": "左传诂 宣公15年",
+   "base_chars": 1043,
+   "wit_chars": 1042,
+   "ratio": 0.9895
+  },
+  {
+   "ch": "130",
+   "title": "宣公十六年",
+   "witness": "左传诂 宣公16年",
+   "base_chars": 274,
+   "wit_chars": 271,
+   "ratio": 0.9781
+  },
+  {
+   "ch": "131",
+   "title": "宣公十七年",
+   "witness": "左传诂 宣公17年",
+   "base_chars": 511,
+   "wit_chars": 508,
+   "ratio": 0.9922
+  },
+  {
+   "ch": "132",
+   "title": "宣公十八年",
+   "witness": "左传诂 宣公18年",
+   "base_chars": 279,
+   "wit_chars": 277,
+   "ratio": 0.9821
+  },
+  {
+   "ch": "133",
+   "title": "成公元年",
+   "witness": "左传诂 成公1年",
+   "base_chars": 198,
+   "wit_chars": 194,
+   "ratio": 0.9798
+  },
+  {
+   "ch": "134",
+   "title": "成公二年",
+   "witness": "左传诂 成公2年",
+   "base_chars": 3228,
+   "wit_chars": 3226,
+   "ratio": 0.9941
+  },
+  {
+   "ch": "135",
+   "title": "成公三年",
+   "witness": "左传诂 成公3年",
+   "base_chars": 813,
+   "wit_chars": 809,
+   "ratio": 0.9902
+  },
+  {
+   "ch": "136",
+   "title": "成公四年",
+   "witness": "左传诂 成公4年",
+   "base_chars": 313,
+   "wit_chars": 309,
+   "ratio": 0.9808
+  },
+  {
+   "ch": "137",
+   "title": "成公五年",
+   "witness": "左传诂 成公5年",
+   "base_chars": 423,
+   "wit_chars": 419,
+   "ratio": 0.9905
+  },
+  {
+   "ch": "138",
+   "title": "成公六年",
+   "witness": "左传诂 成公6年",
+   "base_chars": 707,
+   "wit_chars": 703,
+   "ratio": 0.9901
+  },
+  {
+   "ch": "139",
+   "title": "成公七年",
+   "witness": "左传诂 成公7年",
+   "base_chars": 564,
+   "wit_chars": 560,
+   "ratio": 0.9929
+  },
+  {
+   "ch": "140",
+   "title": "成公八年",
+   "witness": "左传诂 成公8年",
+   "base_chars": 702,
+   "wit_chars": 698,
+   "ratio": 0.9886
+  },
+  {
+   "ch": "141",
+   "title": "成公九年",
+   "witness": "左传诂 成公9年",
+   "base_chars": 824,
+   "wit_chars": 820,
+   "ratio": 0.9891
+  },
+  {
+   "ch": "142",
+   "title": "成公十年",
+   "witness": "左传诂 成公10年",
+   "base_chars": 463,
+   "wit_chars": 459,
+   "ratio": 0.9827
+  },
+  {
+   "ch": "143",
+   "title": "成公十一年",
+   "witness": "左传诂 成公11年",
+   "base_chars": 527,
+   "wit_chars": 524,
+   "ratio": 0.9867
+  },
+  {
+   "ch": "144",
+   "title": "成公十二年",
+   "witness": "左传诂 成公12年",
+   "base_chars": 552,
+   "wit_chars": 549,
+   "ratio": 0.9873
+  },
+  {
+   "ch": "145",
+   "title": "成公十三年",
+   "witness": "左传诂 成公13年",
+   "base_chars": 1299,
+   "wit_chars": 1297,
+   "ratio": 0.9846
+  },
+  {
+   "ch": "146",
+   "title": "成公十四年",
+   "witness": "左传诂 成公14年",
+   "base_chars": 431,
+   "wit_chars": 428,
+   "ratio": 0.9861
+  },
+  {
+   "ch": "147",
+   "title": "成公十五年",
+   "witness": "左传诂 成公15年",
+   "base_chars": 809,
+   "wit_chars": 807,
+   "ratio": 0.9901
+  },
+  {
+   "ch": "148",
+   "title": "成公十六年",
+   "witness": "左传诂 成公16年",
+   "base_chars": 2942,
+   "wit_chars": 2939,
+   "ratio": 0.9905
+  },
+  {
+   "ch": "149",
+   "title": "成公十七年",
+   "witness": "左传诂 成公17年",
+   "base_chars": 1425,
+   "wit_chars": 1423,
+   "ratio": 0.993
+  },
+  {
+   "ch": "150",
+   "title": "成公十八年",
+   "witness": "左传诂 成公18年",
+   "base_chars": 1086,
+   "wit_chars": 1085,
+   "ratio": 0.9936
+  },
+  {
+   "ch": "151",
+   "title": "襄公元年",
+   "witness": "左传诂 襄公1年",
+   "base_chars": 304,
+   "wit_chars": 298,
+   "ratio": 0.9803
+  },
+  {
+   "ch": "152",
+   "title": "襄公二年",
+   "witness": "左传诂 襄公2年",
+   "base_chars": 553,
+   "wit_chars": 549,
+   "ratio": 0.9873
+  },
+  {
+   "ch": "153",
+   "title": "襄公三年",
+   "witness": "左传诂 襄公3年",
+   "base_chars": 866,
+   "wit_chars": 862,
+   "ratio": 0.9896
+  },
+  {
+   "ch": "154",
+   "title": "襄公四年",
+   "witness": "左传诂 襄公4年",
+   "base_chars": 1126,
+   "wit_chars": 1120,
+   "ratio": 0.9893
+  },
+  {
+   "ch": "155",
+   "title": "襄公五年",
+   "witness": "左传诂 襄公5年",
+   "base_chars": 507,
+   "wit_chars": 503,
+   "ratio": 0.9882
+  },
+  {
+   "ch": "156",
+   "title": "襄公六年",
+   "witness": "左传诂 襄公6年",
+   "base_chars": 331,
+   "wit_chars": 327,
+   "ratio": 0.9789
+  },
+  {
+   "ch": "157",
+   "title": "襄公七年",
+   "witness": "左传诂 襄公7年",
+   "base_chars": 644,
+   "wit_chars": 640,
+   "ratio": 0.9907
+  },
+  {
+   "ch": "158",
+   "title": "襄公八年",
+   "witness": "左传诂 襄公8年",
+   "base_chars": 879,
+   "wit_chars": 875,
+   "ratio": 0.9875
+  },
+  {
+   "ch": "159",
+   "title": "襄公九年",
+   "witness": "左传诂 襄公9年",
+   "base_chars": 1591,
+   "wit_chars": 1590,
+   "ratio": 0.9893
+  },
+  {
+   "ch": "160",
+   "title": "襄公十年",
+   "witness": "左传诂 襄公10年",
+   "base_chars": 1825,
+   "wit_chars": 1821,
+   "ratio": 0.9923
+  },
+  {
+   "ch": "161",
+   "title": "襄公十一年",
+   "witness": "左传诂 襄公11年",
+   "base_chars": 1128,
+   "wit_chars": 1126,
+   "ratio": 0.9894
+  },
+  {
+   "ch": "162",
+   "title": "襄公十二年",
+   "witness": "左传诂 襄公12年",
+   "base_chars": 284,
+   "wit_chars": 281,
+   "ratio": 0.9718
+  },
+  {
+   "ch": "163",
+   "title": "襄公十三年",
+   "witness": "左传诂 襄公13年",
+   "base_chars": 766,
+   "wit_chars": 763,
+   "ratio": 0.9856
+  },
+  {
+   "ch": "164",
+   "title": "襄公十四年",
+   "witness": "左传诂 襄公14年",
+   "base_chars": 2465,
+   "wit_chars": 2462,
+   "ratio": 0.9915
+  },
+  {
+   "ch": "165",
+   "title": "襄公十五年",
+   "witness": "左传诂 襄公15年",
+   "base_chars": 590,
+   "wit_chars": 587,
+   "ratio": 0.9898
+  },
+  {
+   "ch": "166",
+   "title": "襄公十六年",
+   "witness": "左传诂 襄公16年",
+   "base_chars": 539,
+   "wit_chars": 536,
+   "ratio": 0.9814
+  },
+  {
+   "ch": "167",
+   "title": "襄公十七年",
+   "witness": "左传诂 襄公17年",
+   "base_chars": 554,
+   "wit_chars": 549,
+   "ratio": 0.9765
+  },
+  {
+   "ch": "168",
+   "title": "襄公十八年",
+   "witness": "左传诂 襄公18年",
+   "base_chars": 1140,
+   "wit_chars": 1136,
+   "ratio": 0.986
+  },
+  {
+   "ch": "169",
+   "title": "襄公十九年",
+   "witness": "左传诂 襄公19年",
+   "base_chars": 1096,
+   "wit_chars": 1097,
+   "ratio": 0.9918
+  },
+  {
+   "ch": "170",
+   "title": "襄公二十年",
+   "witness": "左传诂 襄公20年",
+   "base_chars": 472,
+   "wit_chars": 466,
+   "ratio": 0.9873
+  },
+  {
+   "ch": "171",
+   "title": "襄公二十一年",
+   "witness": "左传诂 襄公21年",
+   "base_chars": 1503,
+   "wit_chars": 1501,
+   "ratio": 0.9894
+  },
+  {
+   "ch": "172",
+   "title": "襄公二十二年",
+   "witness": "左传诂 襄公22年",
+   "base_chars": 1114,
+   "wit_chars": 1110,
+   "ratio": 0.9847
+  },
+  {
+   "ch": "173",
+   "title": "襄公二十三年",
+   "witness": "左传诂 襄公23年",
+   "base_chars": 2215,
+   "wit_chars": 2212,
+   "ratio": 0.9901
+  },
+  {
+   "ch": "174",
+   "title": "襄公二十四年",
+   "witness": "左传诂 襄公24年",
+   "base_chars": 1126,
+   "wit_chars": 1122,
+   "ratio": 0.984
+  },
+  {
+   "ch": "175",
+   "title": "襄公二十五年",
+   "witness": "左传诂 襄公25年",
+   "base_chars": 2442,
+   "wit_chars": 2437,
+   "ratio": 0.9865
+  },
+  {
+   "ch": "176",
+   "title": "襄公二十六年",
+   "witness": "左传诂 襄公26年",
+   "base_chars": 3084,
+   "wit_chars": 3079,
+   "ratio": 0.9929
+  },
+  {
+   "ch": "177",
+   "title": "襄公二十七年",
+   "witness": "左传诂 襄公27年",
+   "base_chars": 2476,
+   "wit_chars": 2477,
+   "ratio": 0.9887
+  },
+  {
+   "ch": "178",
+   "title": "襄公二十八年",
+   "witness": "左传诂 襄公28年",
+   "base_chars": 2197,
+   "wit_chars": 2195,
+   "ratio": 0.9959
+  },
+  {
+   "ch": "179",
+   "title": "襄公二十九年",
+   "witness": "左传诂 襄公29年",
+   "base_chars": 2228,
+   "wit_chars": 2225,
+   "ratio": 0.9856
+  },
+  {
+   "ch": "180",
+   "title": "襄公三十年",
+   "witness": "左传诂 襄公30年",
+   "base_chars": 2101,
+   "wit_chars": 2096,
+   "ratio": 0.9905
+  },
+  {
+   "ch": "181",
+   "title": "襄公三十一年",
+   "witness": "左传诂 襄公31年",
+   "base_chars": 2500,
+   "wit_chars": 2496,
+   "ratio": 0.9916
+  },
+  {
+   "ch": "182",
+   "title": "昭公元年",
+   "witness": "左传诂 昭公1年",
+   "base_chars": 4266,
+   "wit_chars": 4264,
+   "ratio": 0.989
+  },
+  {
+   "ch": "183",
+   "title": "昭公二年",
+   "witness": "左传诂 昭公2年",
+   "base_chars": 777,
+   "wit_chars": 773,
+   "ratio": 0.9923
+  },
+  {
+   "ch": "184",
+   "title": "昭公三年",
+   "witness": "左传诂 昭公3年",
+   "base_chars": 1949,
+   "wit_chars": 1945,
+   "ratio": 0.9903
+  },
+  {
+   "ch": "185",
+   "title": "昭公四年",
+   "witness": "左传诂 昭公4年",
+   "base_chars": 2554,
+   "wit_chars": 2552,
+   "ratio": 0.9875
+  },
+  {
+   "ch": "186",
+   "title": "昭公五年",
+   "witness": "左传诂 昭公5年",
+   "base_chars": 2041,
+   "wit_chars": 2037,
+   "ratio": 0.9878
+  },
+  {
+   "ch": "187",
+   "title": "昭公六年",
+   "witness": "左传诂 昭公6年",
+   "base_chars": 1065,
+   "wit_chars": 1061,
+   "ratio": 0.9878
+  },
+  {
+   "ch": "188",
+   "title": "昭公七年",
+   "witness": "左传诂 昭公7年",
+   "base_chars": 2637,
+   "wit_chars": 2632,
+   "ratio": 0.9875
+  },
+  {
+   "ch": "189",
+   "title": "昭公八年",
+   "witness": "左传诂 昭公8年",
+   "base_chars": 928,
+   "wit_chars": 925,
+   "ratio": 0.9946
+  },
+  {
+   "ch": "190",
+   "title": "昭公九年",
+   "witness": "左传诂 昭公9年",
+   "base_chars": 784,
+   "wit_chars": 780,
+   "ratio": 0.9898
+  },
+  {
+   "ch": "191",
+   "title": "昭公十年",
+   "witness": "左传诂 昭公10年",
+   "base_chars": 999,
+   "wit_chars": 998,
+   "ratio": 0.986
+  },
+  {
+   "ch": "192",
+   "title": "昭公十一年",
+   "witness": "左传诂 昭公11年",
+   "base_chars": 1106,
+   "wit_chars": 1103,
+   "ratio": 0.9864
+  },
+  {
+   "ch": "193",
+   "title": "昭公十二年",
+   "witness": "左传诂 昭公12年",
+   "base_chars": 1744,
+   "wit_chars": 1742,
+   "ratio": 0.988
+  },
+  {
+   "ch": "194",
+   "title": "昭公十三年",
+   "witness": "左传诂 昭公13年",
+   "base_chars": 3399,
+   "wit_chars": 3395,
+   "ratio": 0.9909
+  },
+  {
+   "ch": "195",
+   "title": "昭公十四年",
+   "witness": "左传诂 昭公14年",
+   "base_chars": 716,
+   "wit_chars": 713,
+   "ratio": 0.9777
+  },
+  {
+   "ch": "196",
+   "title": "昭公十五年",
+   "witness": "左传诂 昭公15年",
+   "base_chars": 1007,
+   "wit_chars": 1003,
+   "ratio": 0.9871
+  },
+  {
+   "ch": "197",
+   "title": "昭公十六年",
+   "witness": "左传诂 昭公16年",
+   "base_chars": 1294,
+   "wit_chars": 1292,
+   "ratio": 0.9923
+  },
+  {
+   "ch": "198",
+   "title": "昭公十七年",
+   "witness": "左传诂 昭公17年",
+   "base_chars": 1049,
+   "wit_chars": 1051,
+   "ratio": 0.9829
+  },
+  {
+   "ch": "199",
+   "title": "昭公十八年",
+   "witness": "左传诂 昭公18年",
+   "base_chars": 1032,
+   "wit_chars": 1032,
+   "ratio": 0.9942
+  },
+  {
+   "ch": "200",
+   "title": "昭公十九年",
+   "witness": "左传诂 昭公19年",
+   "base_chars": 863,
+   "wit_chars": 863,
+   "ratio": 0.9849
+  },
+  {
+   "ch": "201",
+   "title": "昭公二十年",
+   "witness": "左传诂 昭公20年",
+   "base_chars": 2881,
+   "wit_chars": 2875,
+   "ratio": 0.9854
+  },
+  {
+   "ch": "202",
+   "title": "昭公二十一年",
+   "witness": "左传诂 昭公21年",
+   "base_chars": 1364,
+   "wit_chars": 1360,
+   "ratio": 0.9883
+  },
+  {
+   "ch": "203",
+   "title": "昭公二十二年",
+   "witness": "左传诂 昭公22年",
+   "base_chars": 1092,
+   "wit_chars": 1088,
+   "ratio": 0.9744
+  },
+  {
+   "ch": "204",
+   "title": "昭公二十三年",
+   "witness": "左传诂 昭公23年",
+   "base_chars": 1441,
+   "wit_chars": 1439,
+   "ratio": 0.9875
+  },
+  {
+   "ch": "205",
+   "title": "昭公二十四年",
+   "witness": "左传诂 昭公24年",
+   "base_chars": 637,
+   "wit_chars": 628,
+   "ratio": 0.9765
+  },
+  {
+   "ch": "206",
+   "title": "昭公二十五年",
+   "witness": "左传诂 昭公25年",
+   "base_chars": 2551,
+   "wit_chars": 2543,
+   "ratio": 0.9835
+  },
+  {
+   "ch": "207",
+   "title": "昭公二十六年",
+   "witness": "左传诂 昭公26年",
+   "base_chars": 1916,
+   "wit_chars": 1913,
+   "ratio": 0.9843
+  },
+  {
+   "ch": "208",
+   "title": "昭公二十七年",
+   "witness": "左传诂 昭公27年",
+   "base_chars": 1424,
+   "wit_chars": 1420,
+   "ratio": 0.9874
+  },
+  {
+   "ch": "209",
+   "title": "昭公二十八年",
+   "witness": "左传诂 昭公28年",
+   "base_chars": 1306,
+   "wit_chars": 1301,
+   "ratio": 0.9855
+  },
+  {
+   "ch": "210",
+   "title": "昭公二十九年",
+   "witness": "左传诂 昭公29年",
+   "base_chars": 1106,
+   "wit_chars": 1102,
+   "ratio": 0.9864
+  },
+  {
+   "ch": "211",
+   "title": "昭公三十年",
+   "witness": "左传诂 昭公30年",
+   "base_chars": 734,
+   "wit_chars": 728,
+   "ratio": 0.9823
+  },
+  {
+   "ch": "212",
+   "title": "昭公三十一年",
+   "witness": "左传诂 昭公31年",
+   "base_chars": 837,
+   "wit_chars": 834,
+   "ratio": 0.9881
+  },
+  {
+   "ch": "213",
+   "title": "昭公三十二年",
+   "witness": "左传诂 昭公32年",
+   "base_chars": 918,
+   "wit_chars": 914,
+   "ratio": 0.9858
+  },
+  {
+   "ch": "214",
+   "title": "定公元年",
+   "witness": "左传诂 定公1年",
+   "base_chars": 829,
+   "wit_chars": 826,
+   "ratio": 0.9843
+  },
+  {
+   "ch": "215",
+   "title": "定公二年",
+   "witness": "左传诂 定公2年",
+   "base_chars": 139,
+   "wit_chars": 135,
+   "ratio": 0.964
+  },
+  {
+   "ch": "216",
+   "title": "定公三年",
+   "witness": "左传诂 定公3年",
+   "base_chars": 364,
+   "wit_chars": 360,
+   "ratio": 0.9863
+  },
+  {
+   "ch": "217",
+   "title": "定公四年",
+   "witness": "左传诂 定公4年",
+   "base_chars": 2220,
+   "wit_chars": 2217,
+   "ratio": 0.9847
+  },
+  {
+   "ch": "218",
+   "title": "定公五年",
+   "witness": "左传诂 定公5年",
+   "base_chars": 768,
+   "wit_chars": 764,
+   "ratio": 0.9792
+  },
+  {
+   "ch": "219",
+   "title": "定公六年",
+   "witness": "左传诂 定公6年",
+   "base_chars": 688,
+   "wit_chars": 685,
+   "ratio": 0.9826
+  },
+  {
+   "ch": "220",
+   "title": "定公七年",
+   "witness": "左传诂 定公7年",
+   "base_chars": 248,
+   "wit_chars": 244,
+   "ratio": 0.9758
+  },
+  {
+   "ch": "221",
+   "title": "定公八年",
+   "witness": "左传诂 定公8年",
+   "base_chars": 1220,
+   "wit_chars": 1216,
+   "ratio": 0.9902
+  },
+  {
+   "ch": "222",
+   "title": "定公九年",
+   "witness": "左传诂 定公9年",
+   "base_chars": 815,
+   "wit_chars": 810,
+   "ratio": 0.9828
+  },
+  {
+   "ch": "223",
+   "title": "定公十年",
+   "witness": "左传诂 定公10年",
+   "base_chars": 1222,
+   "wit_chars": 1218,
+   "ratio": 0.9885
+  },
+  {
+   "ch": "224",
+   "title": "定公十一年",
+   "witness": "左传诂 定公11年",
+   "base_chars": 93,
+   "wit_chars": 90,
+   "ratio": 0.957
+  },
+  {
+   "ch": "225",
+   "title": "定公十二年",
+   "witness": "左传诂 定公12年",
+   "base_chars": 267,
+   "wit_chars": 264,
+   "ratio": 0.9813
+  },
+  {
+   "ch": "226",
+   "title": "定公十三年",
+   "witness": "左传诂 定公13年",
+   "base_chars": 808,
+   "wit_chars": 807,
+   "ratio": 0.9777
+  },
+  {
+   "ch": "227",
+   "title": "定公十四年",
+   "witness": "左传诂 定公14年",
+   "base_chars": 768,
+   "wit_chars": 767,
+   "ratio": 0.9766
+  },
+  {
+   "ch": "228",
+   "title": "定公十五年",
+   "witness": "左传诂 定公15年",
+   "base_chars": 370,
+   "wit_chars": 367,
+   "ratio": 0.9865
+  },
+  {
+   "ch": "229",
+   "title": "哀公元年",
+   "witness": "左传诂 哀公1年",
+   "base_chars": 886,
+   "wit_chars": 880,
+   "ratio": 0.9786
+  },
+  {
+   "ch": "230",
+   "title": "哀公二年",
+   "witness": "左传诂 哀公2年",
+   "base_chars": 935,
+   "wit_chars": 931,
+   "ratio": 0.984
+  },
+  {
+   "ch": "231",
+   "title": "哀公三年",
+   "witness": "左传诂 哀公3年",
+   "base_chars": 497,
+   "wit_chars": 493,
+   "ratio": 0.9839
+  },
+  {
+   "ch": "232",
+   "title": "哀公四年",
+   "witness": "左传诂 哀公4年",
+   "base_chars": 458,
+   "wit_chars": 453,
+   "ratio": 0.9825
+  },
+  {
+   "ch": "233",
+   "title": "哀公五年",
+   "witness": "左传诂 哀公5年",
+   "base_chars": 352,
+   "wit_chars": 348,
+   "ratio": 0.9773
+  },
+  {
+   "ch": "234",
+   "title": "哀公六年",
+   "witness": "左传诂 哀公6年",
+   "base_chars": 1028,
+   "wit_chars": 1021,
+   "ratio": 0.9825
+  },
+  {
+   "ch": "235",
+   "title": "哀公七年",
+   "witness": "左传诂 哀公7年",
+   "base_chars": 843,
+   "wit_chars": 839,
+   "ratio": 0.987
+  },
+  {
+   "ch": "236",
+   "title": "哀公八年",
+   "witness": "左传诂 哀公8年",
+   "base_chars": 809,
+   "wit_chars": 806,
+   "ratio": 0.9876
+  },
+  {
+   "ch": "237",
+   "title": "哀公九年",
+   "witness": "左传诂 哀公9年",
+   "base_chars": 335,
+   "wit_chars": 332,
+   "ratio": 0.9881
+  },
+  {
+   "ch": "238",
+   "title": "哀公十年",
+   "witness": "左传诂 哀公10年",
+   "base_chars": 246,
+   "wit_chars": 242,
+   "ratio": 0.9837
+  },
+  {
+   "ch": "239",
+   "title": "哀公十一年",
+   "witness": "左传诂 哀公11年",
+   "base_chars": 1588,
+   "wit_chars": 1585,
+   "ratio": 0.9906
+  },
+  {
+   "ch": "240",
+   "title": "哀公十二年",
+   "witness": "左传诂 哀公12年",
+   "base_chars": 620,
+   "wit_chars": 618,
+   "ratio": 0.9742
+  },
+  {
+   "ch": "241",
+   "title": "哀公十三年",
+   "witness": "左传诂 哀公13年",
+   "base_chars": 744,
+   "wit_chars": 741,
+   "ratio": 0.9879
+  },
+  {
+   "ch": "242",
+   "title": "哀公十四年",
+   "witness": "左传诂 哀公14年",
+   "base_chars": 1370,
+   "wit_chars": 1368,
+   "ratio": 0.9905
+  },
+  {
+   "ch": "243",
+   "title": "哀公十五年",
+   "witness": "左传诂 哀公15年",
+   "base_chars": 992,
+   "wit_chars": 990,
+   "ratio": 0.9919
+  },
+  {
+   "ch": "244",
+   "title": "哀公十六年",
+   "witness": "左传诂 哀公16年",
+   "base_chars": 1388,
+   "wit_chars": 1387,
+   "ratio": 0.9878
+  },
+  {
+   "ch": "245",
+   "title": "哀公十七年",
+   "witness": "左传诂 哀公17年",
+   "base_chars": 989,
+   "wit_chars": 986,
+   "ratio": 0.9848
+  },
+  {
+   "ch": "246",
+   "title": "哀公十八年",
+   "witness": "左传诂 哀公18年",
+   "base_chars": 169,
+   "wit_chars": 165,
+   "ratio": 0.9645
+  },
+  {
+   "ch": "247",
+   "title": "哀公十九年",
+   "witness": "左传诂 哀公19年",
+   "base_chars": 58,
+   "wit_chars": 55,
+   "ratio": 0.931
+  },
+  {
+   "ch": "248",
+   "title": "哀公二十年",
+   "witness": "左传诂 哀公20年",
+   "base_chars": 361,
+   "wit_chars": 358,
+   "ratio": 0.9889
+  },
+  {
+   "ch": "249",
+   "title": "哀公二十一年",
+   "witness": "左传诂 哀公21年",
+   "base_chars": 113,
+   "wit_chars": 109,
+   "ratio": 0.9558
+  },
+  {
+   "ch": "250",
+   "title": "哀公二十二年",
+   "witness": "左传诂 哀公22年",
+   "base_chars": 63,
+   "wit_chars": 59,
+   "ratio": 0.9365
+  },
+  {
+   "ch": "251",
+   "title": "哀公二十三年",
+   "witness": "左传诂 哀公23年",
+   "base_chars": 215,
+   "wit_chars": 211,
+   "ratio": 0.9674
+  },
+  {
+   "ch": "252",
+   "title": "哀公二十四年",
+   "witness": "左传诂 哀公24年",
+   "base_chars": 282,
+   "wit_chars": 278,
+   "ratio": 0.9858
+  },
+  {
+   "ch": "253",
+   "title": "哀公二十五年",
+   "witness": "左传诂 哀公25年",
+   "base_chars": 568,
+   "wit_chars": 564,
+   "ratio": 0.9877
+  },
+  {
+   "ch": "254",
+   "title": "哀公二十六年",
+   "witness": "左传诂 哀公26年",
+   "base_chars": 809,
+   "wit_chars": 804,
+   "ratio": 0.9827
+  },
+  {
+   "ch": "255",
+   "title": "哀公二十七年",
+   "witness": "左传诂 哀公27年",
+   "base_chars": 496,
+   "wit_chars": 493,
+   "ratio": 0.9879
+  },
+  {
+   "ch": "256",
+   "title": "悼公",
+   "witness": "左传诂 哀公二十七年传（悼之四年起）",
+   "base_chars": 129,
+   "wit_chars": 129,
+   "ratio": 0.9922
+  }
+ ],
+ "counts": {
+  "major": 66,
+  "minor": 478,
+  "用字": 935,
+  "sub": 530
+ },
+ "ratio": 0.9861,
+ "system_pairs": [
+  {
+   "base": "唯",
+   "wit": "惟",
+   "n": 140
+  },
+  {
+   "base": "雠",
+   "wit": "讐",
+   "n": 47
+  },
+  {
+   "base": "斗",
+   "wit": "鬭",
+   "n": 43
+  },
+  {
+   "base": "大",
+   "wit": "太",
+   "n": 35
+  },
+  {
+   "base": "昏",
+   "wit": "昬",
+   "n": 29
+  },
+  {
+   "base": "已",
+   "wit": "己",
+   "n": 27
+  },
+  {
+   "base": "莅",
+   "wit": "涖",
+   "n": 25
+  },
+  {
+   "base": "杞",
+   "wit": "𣏌",
+   "n": 23
+  },
+  {
+   "base": "皙",
+   "wit": "晳",
+   "n": 23
+  },
+  {
+   "base": "犁",
+   "wit": "犂",
+   "n": 22
+  },
+  {
+   "base": "藏",
+   "wit": "臧",
+   "n": 19
+  },
+  {
+   "base": "皋",
+   "wit": "臯",
+   "n": 18
+  },
+  {
+   "base": "彊",
+   "wit": "疆",
+   "n": 16
+  },
+  {
+   "base": "剑",
+   "wit": "劒",
+   "n": 14
+  },
+  {
+   "base": "亰",
+   "wit": "京",
+   "n": 14
+  },
+  {
+   "base": "颓",
+   "wit": "穨",
+   "n": 13
+  },
+  {
+   "base": "憾",
+   "wit": "感",
+   "n": 12
+  },
+  {
+   "base": "戌",
+   "wit": "戍",
+   "n": 11
+  },
+  {
+   "base": "雒",
+   "wit": "洛",
+   "n": 10
+  },
+  {
+   "base": "太",
+   "wit": "大",
+   "n": 9
+  },
+  {
+   "base": "髡",
+   "wit": "髠",
+   "n": 9
+  },
+  {
+   "base": "鬷",
+   "wit": "𩱛",
+   "n": 9
+  },
+  {
+   "base": "巳",
+   "wit": "已",
+   "n": 9
+  },
+  {
+   "base": "鸲",
+   "wit": "鸜",
+   "n": 9
+  },
+  {
+   "base": "遍",
+   "wit": "徧",
+   "n": 8
+  },
+  {
+   "base": "勿",
+   "wit": "弗",
+   "n": 8
+  },
+  {
+   "base": "弗",
+   "wit": "勿",
+   "n": 8
+  },
+  {
+   "base": "謌",
+   "wit": "歌",
+   "n": 8
+  },
+  {
+   "base": "丕",
+   "wit": "㔻",
+   "n": 7
+  },
+  {
+   "base": "旆",
+   "wit": "斾",
+   "n": 7
+  },
+  {
+   "base": "芊",
+   "wit": "芈",
+   "n": 7
+  },
+  {
+   "base": "皞",
+   "wit": "皥",
+   "n": 7
+  },
+  {
+   "base": "壅",
+   "wit": "雍",
+   "n": 7
+  },
+  {
+   "base": "概",
+   "wit": "㮣",
+   "n": 7
+  },
+  {
+   "base": "厩",
+   "wit": "廐",
+   "n": 6
+  },
+  {
+   "base": "绵",
+   "wit": "緜",
+   "n": 6
+  },
+  {
+   "base": "师",
+   "wit": "帅",
+   "n": 6
+  },
+  {
+   "base": "汰",
+   "wit": "汏",
+   "n": 6
+  },
+  {
+   "base": "云",
+   "wit": "曰",
+   "n": 6
+  },
+  {
+   "base": "鞍",
+   "wit": "鞌",
+   "n": 6
+  },
+  {
+   "base": "聩",
+   "wit": "瞆",
+   "n": 6
+  },
+  {
+   "base": "喦",
+   "wit": "嵒",
+   "n": 6
+  },
+  {
+   "base": "间",
+   "wit": "闲",
+   "n": 5
+  },
+  {
+   "base": "婿",
+   "wit": "壻",
+   "n": 5
+  },
+  {
+   "base": "杨",
+   "wit": "扬",
+   "n": 5
+  },
+  {
+   "base": "谓",
+   "wit": "为",
+   "n": 5
+  },
+  {
+   "base": "荅",
+   "wit": "答",
+   "n": 5
+  },
+  {
+   "base": "鴈",
+   "wit": "雁",
+   "n": 5
+  },
+  {
+   "base": "款",
+   "wit": "欵",
+   "n": 5
+  },
+  {
+   "base": "偪",
+   "wit": "逼",
+   "n": 5
+  },
+  {
+   "base": "敛",
+   "wit": "歛",
+   "n": 4
+  },
+  {
+   "base": "蕴",
+   "wit": "蕰",
+   "n": 4
+  },
+  {
+   "base": "碏",
+   "wit": "唶",
+   "n": 4
+  },
+  {
+   "base": "郁",
+   "wit": "鄾",
+   "n": 4
+  },
+  {
+   "base": "羁",
+   "wit": "羇",
+   "n": 4
+  },
+  {
+   "base": "蜂",
+   "wit": "蠭",
+   "n": 4
+  },
+  {
+   "base": "不",
+   "wit": "弗",
+   "n": 4
+  },
+  {
+   "base": "帅",
+   "wit": "师",
+   "n": 4
+  },
+  {
+   "base": "回",
+   "wit": "囘",
+   "n": 4
+  },
+  {
+   "base": "邧",
+   "wit": "䢵",
+   "n": 4
+  },
+  {
+   "base": "场",
+   "wit": "埸",
+   "n": 4
+  },
+  {
+   "base": "底",
+   "wit": "厎",
+   "n": 4
+  },
+  {
+   "base": "己",
+   "wit": "已",
+   "n": 4
+  },
+  {
+   "base": "子",
+   "wit": "之",
+   "n": 4
+  },
+  {
+   "base": "溴",
+   "wit": "湨",
+   "n": 4
+  },
+  {
+   "base": "蠹",
+   "wit": "蠧",
+   "n": 4
+  },
+  {
+   "base": "弗",
+   "wit": "不",
+   "n": 4
+  },
+  {
+   "base": "芊",
+   "wit": "芋",
+   "n": 4
+  },
+  {
+   "base": "与",
+   "wit": "舆",
+   "n": 4
+  },
+  {
+   "base": "已",
+   "wit": "巳",
+   "n": 3
+  },
+  {
+   "base": "聃",
+   "wit": "耼",
+   "n": 3
+  },
+  {
+   "base": "无",
+   "wit": "毋",
+   "n": 3
+  },
+  {
+   "base": "罚",
+   "wit": "罸",
+   "n": 3
+  },
+  {
+   "base": "曰",
+   "wit": "云",
+   "n": 3
+  },
+  {
+   "base": "絏",
+   "wit": "绁",
+   "n": 3
+  },
+  {
+   "base": "平",
+   "wit": "㔻",
+   "n": 3
+  },
+  {
+   "base": "人",
+   "wit": "子",
+   "n": 3
+  },
+  {
+   "base": "胸",
+   "wit": "匈",
+   "n": 3
+  },
+  {
+   "base": "望",
+   "wit": "朢",
+   "n": 3
+  },
+  {
+   "base": "入",
+   "wit": "人",
+   "n": 3
+  },
+  {
+   "base": "于",
+   "wit": "干",
+   "n": 3
+  },
+  {
+   "base": "二",
+   "wit": "三",
+   "n": 3
+  },
+  {
+   "base": "人",
+   "wit": "入",
+   "n": 3
+  },
+  {
+   "base": "很",
+   "wit": "狠",
+   "n": 3
+  },
+  {
+   "base": "厨",
+   "wit": "㕑",
+   "n": 3
+  },
+  {
+   "base": "彊",
+   "wit": "强",
+   "n": 3
+  },
+  {
+   "base": "何",
+   "wit": "可",
+   "n": 3
+  },
+  {
+   "base": "燮",
+   "wit": "爕",
+   "n": 3
+  },
+  {
+   "base": "疆",
+   "wit": "彊",
+   "n": 3
+  },
+  {
+   "base": "闲",
+   "wit": "间",
+   "n": 3
+  },
+  {
+   "base": "闺",
+   "wit": "圭",
+   "n": 3
+  },
+  {
+   "base": "蓖",
+   "wit": "㚟",
+   "n": 3
+  },
+  {
+   "base": "只",
+   "wit": "旨",
+   "n": 3
+  },
+  {
+   "base": "惭",
+   "wit": "慙",
+   "n": 3
+  },
+  {
+   "base": "三",
+   "wit": "二",
+   "n": 3
+  },
+  {
+   "base": "于",
+   "wit": "於",
+   "n": 3
+  },
+  {
+   "base": "吴",
+   "wit": "吾",
+   "n": 3
+  },
+  {
+   "base": "慭",
+   "wit": "憗",
+   "n": 3
+  },
+  {
+   "base": "女",
+   "wit": "汝",
+   "n": 3
+  },
+  {
+   "base": "盖",
+   "wit": "葢",
+   "n": 3
+  },
+  {
+   "base": "蚡",
+   "wit": "蚠",
+   "n": 3
+  },
+  {
+   "base": "祗",
+   "wit": "祇",
+   "n": 3
+  },
+  {
+   "base": "娶",
+   "wit": "取",
+   "n": 3
+  },
+  {
+   "base": "句",
+   "wit": "勾",
+   "n": 3
+  },
+  {
+   "base": "平",
+   "wit": "丕",
+   "n": 3
+  },
+  {
+   "base": "烹",
+   "wit": "亨",
+   "n": 3
+  }
+ ]
+}
