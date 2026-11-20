@@ -996,7 +996,7 @@
 {"pn": "HS-023-013", "entries": ["person/始皇"], "qa": ["Q23", "Q181"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "HS-023-014", "entries": [], "qa": ["Q13", "Q74"], "parallels": [], "corrections": 1, "doubtful": 0}
 {"pn": "HS-023-015", "entries": [], "qa": [], "parallels": [], "corrections": 1, "doubtful": 0}
-{"pn": "HS-023-017", "entries": [], "qa": ["Q19", "Q144"], "parallels": ["SJ-010-025"], "corrections": 0, "doubtful": 0}
+{"pn": "HS-023-017", "entries": [], "qa": ["Q19", "Q144", "Q188"], "parallels": ["SJ-010-025"], "corrections": 0, "doubtful": 0}
 {"pn": "HS-023-019", "entries": [], "qa": ["Q17", "Q182"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "HS-023-020", "entries": [], "qa": ["Q54"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "HS-023-024", "entries": ["person/周勃"], "qa": ["Q16", "Q18", "Q28", "Q38", "Q42", "Q111", "Q143", "Q152"], "parallels": [], "corrections": 0, "doubtful": 0}
@@ -1673,7 +1673,7 @@
 {"pn": "HS-030-212", "entries": [], "qa": ["Q59"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "HS-030-215", "entries": ["person/黄帝"], "qa": ["Q59"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "HS-030-218", "entries": [], "qa": ["Q59"], "parallels": [], "corrections": 0, "doubtful": 0}
-{"pn": "HS-030-223", "entries": [], "qa": [], "parallels": [], "corrections": 1, "doubtful": 0}
+{"pn": "HS-030-223", "entries": [], "qa": ["Q188"], "parallels": [], "corrections": 1, "doubtful": 0}
 {"pn": "HS-031-001", "entries": [], "qa": ["Q36", "Q162"], "parallels": ["SJ-048-001"], "corrections": 0, "doubtful": 0}
 {"pn": "HS-031-002", "entries": ["person/陈胜"], "qa": ["Q22", "Q36", "Q110"], "parallels": ["SJ-048-002"], "corrections": 0, "doubtful": 0}
 {"pn": "HS-031-003", "entries": [], "qa": ["Q36", "Q110"], "parallels": ["SJ-048-003"], "corrections": 0, "doubtful": 0}
@@ -2057,7 +2057,7 @@
 {"pn": "HS-040-084", "entries": ["person/周勃"], "qa": ["Q12", "Q14", "Q42", "Q143", "Q150", "Q160", "Q165", "Q173"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "HS-041-001", "entries": ["person/樊哙"], "qa": ["Q3", "Q112", "Q128", "Q162"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "HS-041-002", "entries": ["person/萧何"], "qa": ["Q3", "Q70", "Q74", "Q90", "Q97", "Q166"], "parallels": ["SJ-095-002"], "corrections": 1, "doubtful": 0}
-{"pn": "HS-041-003", "entries": ["place/霸上", "person/项庄"], "qa": ["Q1", "Q3", "Q6", "Q20", "Q97", "Q121", "Q128", "Q142", "Q147", "Q148", "Q149", "Q163"], "parallels": ["SJ-095-003"], "corrections": 1, "doubtful": 0}
+{"pn": "HS-041-003", "entries": ["place/霸上", "person/项庄"], "qa": ["Q1", "Q3", "Q6", "Q20", "Q97", "Q121", "Q128", "Q142", "Q147", "Q148", "Q149", "Q163", "Q189"], "parallels": ["SJ-095-003"], "corrections": 1, "doubtful": 0}
 {"pn": "HS-041-004", "entries": ["person/汉王"], "qa": ["Q3", "Q20", "Q30", "Q77", "Q121"], "parallels": ["SJ-095-004"], "corrections": 0, "doubtful": 0}
 {"pn": "HS-041-005", "entries": ["person/高祖"], "qa": ["Q34", "Q136", "Q140"], "parallels": ["SJ-095-005"], "corrections": 1, "doubtful": 0}
 {"pn": "HS-041-006", "entries": [], "qa": ["Q3", "Q79", "Q91", "Q95"], "parallels": ["SJ-095-006"], "corrections": 0, "doubtful": 0}
@@ -2739,7 +2739,7 @@
 {"pn": "HS-063-019", "entries": [], "qa": ["Q2", "Q18", "Q23", "Q123", "Q151"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "HS-063-021", "entries": ["concept/封禅"], "qa": [], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "HS-063-022", "entries": [], "qa": ["Q42", "Q60"], "parallels": [], "corrections": 0, "doubtful": 0}
-{"pn": "HS-063-023", "entries": ["person/荀卿"], "qa": ["Q5", "Q7", "Q24", "Q31", "Q39", "Q58", "Q63", "Q64", "Q67", "Q78", "Q79", "Q84", "Q85", "Q92", "Q100", "Q134", "Q157"], "parallels": [], "corrections": 0, "doubtful": 1}
+{"pn": "HS-063-023", "entries": ["person/荀卿"], "qa": ["Q5", "Q7", "Q24", "Q31", "Q39", "Q58", "Q63", "Q64", "Q67", "Q78", "Q79", "Q84", "Q85", "Q92", "Q100", "Q134", "Q157", "Q188"], "parallels": [], "corrections": 0, "doubtful": 1}
 {"pn": "HS-063-024", "entries": ["person/曹参", "person/萧何"], "qa": ["Q28", "Q61", "Q74", "Q123", "Q134", "Q135", "Q151", "Q153", "Q186"], "parallels": ["SJ-130-149"], "corrections": 0, "doubtful": 0}
 {"pn": "HS-063-025", "entries": [], "qa": ["Q61", "Q135"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "HS-063-026", "entries": [], "qa": ["Q135"], "parallels": [], "corrections": 0, "doubtful": 0}
@@ -3914,7 +3914,7 @@
 {"pn": "SJ-001-001", "entries": [], "qa": ["Q186"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-001-002", "entries": [], "qa": ["Q59", "Q123", "Q153"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-001-003", "entries": [], "qa": ["Q59", "Q153"], "parallels": [], "corrections": 0, "doubtful": 0}
-{"pn": "SJ-001-004", "entries": [], "qa": ["Q33", "Q59", "Q133"], "parallels": [], "corrections": 0, "doubtful": 0}
+{"pn": "SJ-001-004", "entries": [], "qa": ["Q33", "Q59", "Q133", "Q189"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-001-005", "entries": ["person/黄帝"], "qa": ["Q59"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-001-006", "entries": ["place/高阳"], "qa": ["Q59"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-001-007", "entries": ["place/高阳"], "qa": ["Q59"], "parallels": [], "corrections": 0, "doubtful": 0}
@@ -4332,7 +4332,7 @@
 {"pn": "SJ-010-022", "entries": [], "qa": ["Q16", "Q25", "Q66"], "parallels": ["HS-004-024"], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-010-023", "entries": ["polity/淮南"], "qa": ["Q16"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-010-024", "entries": [], "qa": ["Q16"], "parallels": [], "corrections": 0, "doubtful": 0}
-{"pn": "SJ-010-025", "entries": [], "qa": ["Q16", "Q19", "Q144"], "parallels": ["HS-023-017"], "corrections": 0, "doubtful": 0}
+{"pn": "SJ-010-025", "entries": [], "qa": ["Q16", "Q19", "Q144", "Q188"], "parallels": ["HS-023-017"], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-010-026", "entries": [], "qa": ["Q16"], "parallels": ["HS-004-052"], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-010-027", "entries": [], "qa": ["Q16", "Q55", "Q80", "Q88"], "parallels": ["HS-004-053"], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-010-028", "entries": [], "qa": [], "parallels": ["HS-004-054"], "corrections": 0, "doubtful": 0}
@@ -6789,7 +6789,7 @@
 {"pn": "SJ-094-013", "entries": ["person/蒯通"], "qa": ["Q9", "Q28", "Q111", "Q155", "Q171"], "parallels": ["HS-045-010"], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-095-001", "entries": ["person/樊哙"], "qa": ["Q3", "Q112", "Q128", "Q162"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-095-002", "entries": [], "qa": ["Q3", "Q37", "Q70", "Q90", "Q97", "Q166"], "parallels": ["HS-041-002"], "corrections": 0, "doubtful": 0}
-{"pn": "SJ-095-003", "entries": ["person/樊哙", "person/沛公", "person/项庄"], "qa": ["Q1", "Q3", "Q6", "Q97", "Q121", "Q128", "Q147", "Q148", "Q149", "Q163"], "parallels": ["HS-041-003"], "corrections": 1, "doubtful": 0}
+{"pn": "SJ-095-003", "entries": ["person/樊哙", "person/沛公", "person/项庄"], "qa": ["Q1", "Q3", "Q6", "Q97", "Q121", "Q128", "Q147", "Q148", "Q149", "Q163", "Q189"], "parallels": ["HS-041-003"], "corrections": 1, "doubtful": 0}
 {"pn": "SJ-095-004", "entries": [], "qa": ["Q3", "Q20", "Q30", "Q77", "Q121"], "parallels": ["HS-041-004"], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-095-005", "entries": [], "qa": ["Q20", "Q34", "Q37", "Q136", "Q140"], "parallels": ["HS-041-005"], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-095-006", "entries": [], "qa": ["Q3", "Q79", "Q91", "Q95", "Q111", "Q143"], "parallels": ["HS-041-006"], "corrections": 0, "doubtful": 1}
@@ -6987,21 +6987,25 @@
 {"pn": "SJ-104-015", "entries": [], "qa": ["Q54", "Q56"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-104-016", "entries": [], "qa": ["Q54", "Q105", "Q135", "Q150", "Q162", "Q187"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-105-002", "entries": [], "qa": ["Q44"], "parallels": [], "corrections": 0, "doubtful": 0}
-{"pn": "SJ-105-005", "entries": [], "qa": [], "parallels": [], "corrections": 1, "doubtful": 0}
+{"pn": "SJ-105-005", "entries": [], "qa": ["Q190"], "parallels": [], "corrections": 1, "doubtful": 0}
 {"pn": "SJ-105-007", "entries": [], "qa": ["Q26"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-105-009", "entries": [], "qa": ["Q20", "Q21", "Q46"], "parallels": [], "corrections": 0, "doubtful": 0}
-{"pn": "SJ-105-010", "entries": ["place/临菑"], "qa": ["Q59", "Q107"], "parallels": [], "corrections": 0, "doubtful": 0}
-{"pn": "SJ-105-011", "entries": [], "qa": ["Q16", "Q144"], "parallels": [], "corrections": 0, "doubtful": 0}
+{"pn": "SJ-105-010", "entries": ["place/临菑"], "qa": ["Q59", "Q107", "Q188"], "parallels": [], "corrections": 0, "doubtful": 0}
+{"pn": "SJ-105-011", "entries": [], "qa": ["Q16", "Q144", "Q188"], "parallels": [], "corrections": 0, "doubtful": 0}
+{"pn": "SJ-105-013", "entries": [], "qa": ["Q188"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-105-014", "entries": [], "qa": ["Q59", "Q107"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-105-024", "entries": [], "qa": [], "parallels": [], "corrections": 2, "doubtful": 0}
 {"pn": "SJ-105-028", "entries": [], "qa": ["Q144"], "parallels": [], "corrections": 1, "doubtful": 0}
+{"pn": "SJ-105-029", "entries": [], "qa": ["Q188"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-105-033", "entries": [], "qa": ["Q107"], "parallels": [], "corrections": 1, "doubtful": 0}
 {"pn": "SJ-105-035", "entries": [], "qa": [], "parallels": [], "corrections": 1, "doubtful": 0}
 {"pn": "SJ-105-043", "entries": [], "qa": ["Q101"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-105-044", "entries": [], "qa": [], "parallels": [], "corrections": 1, "doubtful": 0}
 {"pn": "SJ-105-046", "entries": [], "qa": ["Q107"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-105-047", "entries": [], "qa": ["Q107"], "parallels": [], "corrections": 0, "doubtful": 0}
-{"pn": "SJ-105-051", "entries": [], "qa": ["Q182"], "parallels": [], "corrections": 0, "doubtful": 0}
+{"pn": "SJ-105-048", "entries": [], "qa": ["Q188"], "parallels": [], "corrections": 0, "doubtful": 0}
+{"pn": "SJ-105-049", "entries": [], "qa": ["Q188"], "parallels": [], "corrections": 0, "doubtful": 0}
+{"pn": "SJ-105-051", "entries": [], "qa": ["Q182", "Q189"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-106-001", "entries": ["person/刘贾"], "qa": ["Q43", "Q46", "Q51", "Q152"], "parallels": ["HS-035-009"], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-106-002", "entries": [], "qa": ["Q109"], "parallels": ["HS-035-010"], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-106-003", "entries": [], "qa": ["Q16", "Q19", "Q109"], "parallels": ["HS-035-011"], "corrections": 0, "doubtful": 0}
@@ -7594,6 +7598,7 @@
 {"pn": "SJ-130-113", "entries": ["place/城阳"], "qa": ["Q9", "Q68"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-130-118", "entries": [], "qa": ["Q134"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-130-120", "entries": ["person/袁盎"], "qa": ["Q24", "Q31"], "parallels": [], "corrections": 0, "doubtful": 0}
+{"pn": "SJ-130-124", "entries": [], "qa": ["Q188"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-130-129", "entries": ["polity/匈奴"], "qa": ["Q15"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-130-131", "entries": [], "qa": ["Q83", "Q157"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "SJ-130-137", "entries": ["polity/淮南"], "qa": [], "parallels": [], "corrections": 0, "doubtful": 0}
@@ -7647,6 +7652,7 @@
 {"pn": "ZZ-016-005", "entries": [], "qa": [], "parallels": ["SJ-036-008"], "corrections": 0, "doubtful": 0}
 {"pn": "ZZ-016-008", "entries": [], "qa": ["Q60"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "ZZ-016-011", "entries": [], "qa": [], "parallels": [], "corrections": 1, "doubtful": 0}
+{"pn": "ZZ-016-013", "entries": [], "qa": ["Q188"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "ZZ-017-006", "entries": [], "qa": ["Q27"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "ZZ-017-007", "entries": [], "qa": ["Q125"], "parallels": [], "corrections": 0, "doubtful": 0}
 {"pn": "ZZ-017-008", "entries": [], "qa": [], "parallels": [], "corrections": 1, "doubtful": 0}
